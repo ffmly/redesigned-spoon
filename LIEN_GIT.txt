@@ -1,0 +1,2 @@
+URL_DU_DEPOT=https://github.com/ffmly/redesigned-spoon.git
+COMMIT_FINAL=A_COMPLETER_APRES_INTEGRATION_DE_L_EQUIPE
